@@ -1,0 +1,24 @@
+{
+    "name": "amaka/learning-composer",
+    "description": "I am learning how to use composer",
+    "keywords": ["Json", "Response", "API Response", "PHP"],
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devscreencast\\ResponseClass\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amaka Obi",
+            "email": "amieobi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
