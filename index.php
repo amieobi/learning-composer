@@ -4,7 +4,7 @@ require_once(__DIR__ . DIRECTORY_SEPARATOR . 'vendor' . DIRECTORY_SEPARATOR . 'a
 use Devscreencast\ResponseClass\JsonResponse;
 
 $student = array(
-    "name" => "Amaka",
+    "name" => "John",
     "course" => "English",
     "level" => 200
 );
